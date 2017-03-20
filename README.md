@@ -1,5 +1,5 @@
 # Allen SDK Demo
-A small demonstration of various ways of using the Allen Institute for Brain Science's SDK.
+A small demonstration of various ways of using the [Allen Institute for Brain Science's SDK](https://alleninstitute.github.io/AllenSDK/).
 
 This program requires PyOpenGL, NEURON installed with Python as an interpreter, and the Allen SDK (and all
 dependencies). It has been tested under 64-bit Windows 10 and Ubuntu 16.04.
